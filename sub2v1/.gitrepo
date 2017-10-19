@@ -6,6 +6,6 @@
 [subrepo]
 	remote = git@github.com:tychota/testSubrepo2.git
 	branch = master
-	commit = 0be4f9ebe03c5d79315ce8f5b5e05b182d9b8d28
-	parent = a7b33c12ba03a2d647ffb02b12d37f93349bd6f1
+	commit = fea3dacb32e702f00df017f5d4e27472f2464a70
+	parent = e92a426be32bb0d944111f998bf2d11a51dab882
 	cmdver = 0.3.1
